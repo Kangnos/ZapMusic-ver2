@@ -1,0 +1,49 @@
+<style media="screen">
+  .Music{
+    padding: 5px;
+  }
+  .Musics{
+    text-align: center;
+    position: relative;
+    left: 800px;
+    top: 65px;
+    box-sizing: content-box;
+    background-color: powderblue;
+    width: 400px;
+
+  }
+  #MusicLinkColor{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    box-sizing: border-box;
+  }
+  body{
+    margin: 0px;
+  }
+  div{
+    display: block;
+  }
+  .Video{
+    font-size: 100px;
+    color: black;
+    position: relative;
+    top: -58px;
+    left: 190px;
+    border: 1px solid;
+    padding: 3px;
+    width: 500px;
+    text-align: center;
+  }
+  .h1AtagDiv{
+    font-size: 45px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  .MusicVideo{
+    position: relative;
+    left: 180px;
+    top: -20px;
+  }
+</style>
